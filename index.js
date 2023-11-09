@@ -21,7 +21,7 @@ form.addEventListener('submit',function(e){
     // count++;
     e.preventDefault();
     if(z == use.value && o == +pas.value){
-        window.open('https://students.masaischool.com/assignments/33040/problems/32080/128249', "_parent") 
+        window.open('http://127.0.0.1:3000/home/home.html', "_parent") 
         
     }else{ 
         window.open('')
