@@ -21,10 +21,10 @@ form.addEventListener('submit',function(e){
     // count++;
     e.preventDefault();
     if(z == use.value && o == +pas.value){
-        window.open('http://127.0.0.1:3000/home/home.html', "_parent") 
-         
+        window.open('http://127.0.0.1:3000/index/home/home.html', "_parent") 
+        
     }else{ 
-        window.open('http://127.0.0.1:3000/login/notfound.html')
+        window.open('http://127.0.0.1:3000/index/home/home.html')
     }
          
 })
