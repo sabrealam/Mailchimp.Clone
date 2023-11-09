@@ -21,10 +21,10 @@ form.addEventListener('submit',function(e){
     // count++;
     e.preventDefault();
     if(z == use.value && o == +pas.value){
-        window.open('http://127.0.0.1:3000/index/home/home.html', "_parent") 
+        window.open('https://students.masaischool.com/assignments/33040/problems/32080/128249', "_parent") 
         
     }else{ 
-        window.open('http://127.0.0.1:3000/index/home/home.html')
+        window.open('')
     }
          
 })
