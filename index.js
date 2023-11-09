@@ -21,7 +21,7 @@ form.addEventListener('submit',function(e){
     // count++;
     e.preventDefault();
     if(z == use.value && o == +pas.value){
-        window.open('http://127.0.0.1:3000/home/home.html', "_parent") 
+        window.open('https://654ce65f4cf7014e1c0f531c--marvelous-profiterole-826349.netlify.app/', "_parent") 
         
     }else{ 
         window.open('')
